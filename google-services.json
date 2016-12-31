@@ -1,3 +1,42 @@
 {
-  // dummy google-servies file !! replace with your configuration
+  "project_info": {
+    "project_number": "136187684442",
+    "firebase_url": "https://rotary-151205.firebaseio.com",
+    "project_id": "rotary-151205",
+    "storage_bucket": "rotary-151205.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136187684442:android:94ba647adf4a860e",
+        "android_client_info": {
+          "package_name": "com.rotary.android.rotaryv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136187684442-q13mv4marsp12ajm52cn8ifdep9vu7ju.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7qNHa48W6L65vY7fTshQ9BNIJz9Wq3Sg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
 }
