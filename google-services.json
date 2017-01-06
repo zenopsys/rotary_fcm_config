@@ -15,18 +15,35 @@
       },
       "oauth_client": [
         {
+          "client_id": "306591978610-okd7lg6khmlin61rh920ichcqomm8asr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zenopsys.rotary",
+            "certificate_hash": "05F4719EF25EF428120B5963CAAF099218591F88"
+          }
+        },
+        {
           "client_id": "306591978610-nautlj5jpea9t70hoju5lqd6vlfrra3b.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
-      "api_key": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO3OlEYPuWP8gPXZBM8ID72Y-PGXh1tqE"
+        }
+      ],
       "services": {
         "analytics_service": {
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "306591978610-nautlj5jpea9t70hoju5lqd6vlfrra3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
