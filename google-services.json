@@ -1,35 +1,27 @@
 {
   "project_info": {
-    "project_number": "306591978610",
-    "firebase_url": "https://rotary3190-56a98.firebaseio.com",
-    "project_id": "rotary3190-56a98",
-    "storage_bucket": "rotary3190-56a98.appspot.com"
+    "project_number": "45073666918",
+    "firebase_url": "https://bzw65v2563inzenopsys.firebaseio.com",
+    "project_id": "bzw65v2563inzenopsys",
+    "storage_bucket": "bzw65v2563inzenopsys.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:306591978610:android:0456bcdf5b725240",
+        "mobilesdk_app_id": "1:45073666918:android:50d74d3c1a374c3b",
         "android_client_info": {
-          "package_name": "com.zenopsys.rotary"
+          "package_name": "BZW65V2563.in.zenopsys.rotary3190"
         }
       },
       "oauth_client": [
         {
-          "client_id": "306591978610-okd7lg6khmlin61rh920ichcqomm8asr.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.zenopsys.rotary",
-            "certificate_hash": "05F4719EF25EF428120B5963CAAF099218591F88"
-          }
-        },
-        {
-          "client_id": "306591978610-nautlj5jpea9t70hoju5lqd6vlfrra3b.apps.googleusercontent.com",
+          "client_id": "45073666918-kv9vsjph7gvlktepomhf697g5e1khu02.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCO3OlEYPuWP8gPXZBM8ID72Y-PGXh1tqE"
+          "current_key": "AIzaSyBy5Utc5scRmQ7Ru8EJm62xgWLOC2enTY8"
         }
       ],
       "services": {
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "306591978610-nautlj5jpea9t70hoju5lqd6vlfrra3b.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
