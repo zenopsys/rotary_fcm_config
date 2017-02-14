@@ -1,29 +1,25 @@
 {
   "project_info": {
-    "project_number": "45073666918",
-    "firebase_url": "https://bzw65v2563inzenopsys.firebaseio.com",
-    "project_id": "bzw65v2563inzenopsys",
-    "storage_bucket": "bzw65v2563inzenopsys.appspot.com"
+    "project_number": "253584322770",
+    "firebase_url": "https://rotarydist.firebaseio.com",
+    "project_id": "rotarydist",
+    "storage_bucket": "rotarydist.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:45073666918:android:50d74d3c1a374c3b",
+        "mobilesdk_app_id": "1:253584322770:android:f118d9b894c34c85",
         "android_client_info": {
-          "package_name": "BZW65V2563.in.zenopsys.rotary3190"
+          "package_name": "in.zenopsys.rotary3190"
         }
       },
       "oauth_client": [
         {
-          "client_id": "45073666918-kv9vsjph7gvlktepomhf697g5e1khu02.apps.googleusercontent.com",
+          "client_id": "253584322770-lpv8l2l3ut63gs8tlbamq0kknmobibtl.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyBy5Utc5scRmQ7Ru8EJm62xgWLOC2enTY8"
-        }
-      ],
+      "api_key": [],
       "services": {
         "analytics_service": {
           "status": 1
